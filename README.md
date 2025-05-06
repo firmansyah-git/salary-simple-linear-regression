@@ -1,5 +1,5 @@
 # 🧠 Simple Linear Regression - Salary Prediction
-Ini adalah proyek beginner-friendly yang saya buat untuk mempelajari konsep dasar **Regresi Linier** menggunakan dataset yang sangat minimal — hanya terdiri dari **2 kolom** (Tahun Pengalaman & Gaji) dan **39 baris data**. Tujuannya adalah untuk benar-benar memahami cara kerja regresi sebelum lanjut ke model yang lebih kompleks.
+Ini adalah proyek beginner-friendly yang saya buat untuk mempelajari konsep dasar **Regresi Linier** menggunakan dataset yang sangat minimal — hanya terdiri dari **2 kolom** (Tahun Pengalaman & Gaji) dan **30 baris data**. Tujuannya adalah untuk benar-benar memahami cara kerja regresi sebelum lanjut ke model yang lebih kompleks.
 
 # 📂 Dataset
 [Salary Dataset - Kaggle](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)  
