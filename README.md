@@ -1,5 +1,5 @@
 # 🧠 Simple Linear Regression - Salary Prediction
-Prediksi gaji berdasarkan tahun pengalaman kerja menggunakan regresi linier.
+Ini adalah proyek beginner-friendly yang saya buat untuk mempelajari konsep dasar **Regresi Linier** menggunakan dataset yang sangat minimal — hanya terdiri dari **2 kolom** (Tahun Pengalaman & Gaji) dan **39 baris data**. Tujuannya adalah untuk benar-benar memahami cara kerja regresi sebelum lanjut ke model yang lebih kompleks.
 
 # 📂 Dataset
 [Salary Dataset - Kaggle](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)  
@@ -16,6 +16,7 @@ Mempelajari regresi linier sederhana dengan 1 fitur (YearsExperience) untuk memp
 - Menguji seberapa kuat hubungan linier antar dua variabel
 - Melatih model regresi menggunakan scikit-learn
 - Mengevaluasi model dengan metrik MSE, RMSE, dan R² Score
+- Memperkuat pemahaman dasar tentang machine learning.
 
 # 🛠️ Tools & Library
 - Python
@@ -37,6 +38,13 @@ Model mampu memprediksi gaji dengan kesalahan rata-rata ±5.6 juta USD, dan menj
 
 # 📎 Notebook
 Lihat implementasi lengkap di [Notebook](/Salary%20_LinearRegression.ipynb).
+
+## 🔭 Langkah Selanjutnya
+
+Proyek ini adalah tahap awal dari perjalanan belajar saya. Rencana selanjutnya:
+- Coba regresi linier multivariat (lebih dari 1 variabel prediktor)
+- Gunakan dataset yang lebih besar dan realistis dari Kaggle
+- Belajar analisis residual dan validasi model yang lebih mendalam
 
 # 🙋‍♂️ Connect With Me
 Hi, I'm Firmansyah — aspiring data analyst with a background in IT and a passion for turning data into business insights. This project is part of my continuous learning journey.
