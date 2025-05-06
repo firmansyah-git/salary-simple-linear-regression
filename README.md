@@ -1,8 +1,15 @@
 # 🧠 Simple Linear Regression - Salary Prediction
-Prediksi gaji berdasarkan tahun pengalaman kerja menggunakan regresi linier sederhana.
+Prediksi gaji berdasarkan tahun pengalaman kerja menggunakan regresi linier.
 
 # 📂 Dataset
-[Salary Dataset - Kaggle](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)
+[Salary Dataset - Kaggle](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)  
+
+**Dataset Overview**
+
+| Column | Description|
+|--------|------------|
+| YearsExperience | Experience in years
+| Salary | Salary of the person (USD)
 
 # 🎯 Tujuan Proyek
 Mempelajari regresi linier sederhana dengan 1 fitur (YearsExperience) untuk memprediksi Salary, sekaligus:
@@ -12,7 +19,7 @@ Mempelajari regresi linier sederhana dengan 1 fitur (YearsExperience) untuk memp
 
 # 🛠️ Tools & Library
 - Python
-- Pandas, NumPy
+- Pandas
 - Matplotlib, Seaborn
 - scikit-learn
 
@@ -21,11 +28,11 @@ Mempelajari regresi linier sederhana dengan 1 fitur (YearsExperience) untuk memp
 Salary = 9,449.46 x YearsExperience + 24,848.20
 
 - MSE: 31,270,951.72
-- RMSE: ±5.59 juta rupiah
+- RMSE: ±5.59 juta USD
 - R² Score: 0.957
 - Relative Error: ~8%
 
-Model mampu memprediksi gaji dengan kesalahan rata-rata ±5.6 juta, dan menjelaskan ~95.7% variasi data gaji berdasarkan pengalaman kerja.
+Model mampu memprediksi gaji dengan kesalahan rata-rata ±5.6 juta USD, dan menjelaskan ~95.7% variasi data gaji berdasarkan pengalaman kerja.
 
 
 # 📎 Notebook
